@@ -1,23 +1,9 @@
-Meu primeiro Projeto.
+Projeto Alterado: Banking System
 
-Gostaria de apresentar a vocês o meu primeiro projeto em C.
+>> Projeto busca simular um sistema bancário visando sempre o aproveitamento de memória alocada; Onde através de uma lista encadeada implementada como TAD, foi possível armazenar os dados de maneira eficiente.
 
-Para a realização deste, utilizei os seguintes conceitos:
+>> O projeto conta com uma modularização, será possível encontrar os arquivos de implementação na pasta "./Src/", os arquivos de declaração na pasta "./Include/" e os arquivos compilados (object files) na pasta "./object/"
 
-• Conceitos Básicos da linguagem C
-• Conhecimentos sobre TADs (Tipos abstratos de dados) - Especificamente a Lista Encadeada
-• Modularização.
+>> O projeto conta com um Makefile elaborado por mim, para que haja a possíbilidade de se alterar o código em Forks, e apenas executando o "make" em seu prompt de comandos, já será gerado o ".exe"
 
-Arquivos de código: 
-
-Modules:
-- Banco.c
-- List.c
-- Main.c
-- Menu.c
-
-Headers (Arquivos de cabeçalho)
-- Banco.h
-- List.h
-- Main.h
-- Menu.h
+>> ;D
